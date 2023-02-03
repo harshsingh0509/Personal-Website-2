@@ -1,0 +1,55 @@
+img{
+    border-radius: 50%;
+}
+#two{
+    border-radius: 0;
+}
+ul{
+    list-style: circle;
+}
+body{
+    background-color: moccasin;
+    text-align: center;
+}
+
+#hello{
+    font-size: 40px;
+}
+
+#MySkills{
+    font-size: 40px;
+}
+
+#Self{
+    font-size: 15px;
+}
+
+#html{
+    font-size: 15px;
+}
+#C{
+    font-size: 15px;
+}
+
+#C plus{
+    font: size 15px;
+}
+
+#LL{
+    font-size: 15px;
+}
+
+#Array{
+    font-size: 15px;
+}
+
+#Queue{
+    font-size: 15px;
+}
+#CSS{
+    font-size: 15px;
+}
+
+#String{
+    font-size: 15px;
+}
